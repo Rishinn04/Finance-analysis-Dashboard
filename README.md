@@ -42,4 +42,4 @@ The management team needs a centralized way to monitor transaction growth and fi
 
   ## Screenshot
 
-  ![Dasboard Preview](https://github.com/Rishinn04/INSURANCE-RISK-CLAIMS-ANALYSIS-Dashboard/blob/main/project.png)
+  ![Dasboard Preview]([https://github.com/Rishinn04/INSURANCE-RISK-CLAIMS-ANALYSIS-Dashboard/blob/main/project.png](https://github.com/Rishinn04/Finance-analysis-Dashboard/blob/main/Finance%20Dashboard.png))
